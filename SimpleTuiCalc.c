@@ -2,7 +2,7 @@
 
 int X, Y, Z;
 int OperatorChoice;
-main ()
+int main ()
 {
   printf ("Welcome to quinlanfab's simple tui calc!\n");
   printf (" _____________________\n");
